@@ -83,7 +83,5 @@ services:
   spark-worker-2:
       <<: *spark-common
 
- #       <<: *spark-common
-
 networks:
      datamasterylab:
