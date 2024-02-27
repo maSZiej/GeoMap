@@ -1,1 +1,2 @@
-Python backend and API and front in blazor
+Python backend and API.
+Front in blazor.
